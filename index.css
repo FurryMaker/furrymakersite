@@ -16,7 +16,7 @@ body {
 }
 
 
-.download {
+.download, .screenshots {
     background-color: green;
     border:none;
     border-radius:60px;
@@ -25,6 +25,6 @@ body {
     font-size:40px;
 }
 
-.download:hover {
+.download:hover, .screenshots:hover {
     cursor:pointer;
 }
