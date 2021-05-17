@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
+
+body {
+    background-color: #36393E;
+}
+
+.dfm-main, .fm-main {
+    color: #ED4245;
+    font-family: 'Roboto', sans-serif;
+
+}
+
+.l1-link:link, .l1-link:visited {
+font-family: 'Roboto', sans-serif;
+color:darkblue;
+text-decoration: none;
+
+}
+
+.l1-link:hover {
+    font-family: 'Roboto', sans-serif;
+    transition: all 0.3s ease 0s;
+    color:green;
+    
+}
+
