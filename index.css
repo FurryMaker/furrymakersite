@@ -4,7 +4,27 @@
 body {
     background-color: #36393E;
 }
-.fm-main {
+
+
+.fm-main, .wfm, .fmi, .wdid, .id {
     color: #ED4245;
     font-family: 'Roboto', sans-serif;
+}
+
+.wdid {
+    font-size: larger;
+}
+
+
+.download {
+    background-color: green;
+    border:none;
+    border-radius:60px;
+    width:250px;
+    height:70px;
+    font-size:40px;
+}
+
+.download:hover {
+    cursor:pointer;
 }
