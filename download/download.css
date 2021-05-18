@@ -5,20 +5,20 @@ body {
     background-color: #36393E;
 }
 
-.dfm-main, .fm-main {
+.dfm-main, .fm-main, .wcro {
     color: #ED4245;
     font-family: 'Roboto', sans-serif;
 
 }
 
-.l1-link:link, .l1-link:visited {
+.l1-link:link, .l1-link:visited, .wcrolink:link, .wcrolink:visited {
 font-family: 'Roboto', sans-serif;
 color:darkblue;
 text-decoration: none;
 
 }
 
-.l1-link:hover {
+.l1-link:hover, .wcrolink:hover {
     font-family: 'Roboto', sans-serif;
     transition: all 0.3s ease 0s;
     color:green;
